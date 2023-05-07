@@ -200,6 +200,7 @@ public class Main{
         int x;
         int xw;
         int xww;
+        int xwww;
         while(true) {
             x = jij(a);
             if(x==0) break;
