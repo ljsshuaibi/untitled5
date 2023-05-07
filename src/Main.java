@@ -199,6 +199,7 @@ public class Main{
         cot(a);
         int x;
         int xw;
+        int xww;
         while(true) {
             x = jij(a);
             if(x==0) break;
