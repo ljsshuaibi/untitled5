@@ -198,6 +198,7 @@ public class Main{
         random(a);
         cot(a);
         int x;
+        int xw;
         while(true) {
             x = jij(a);
             if(x==0) break;
